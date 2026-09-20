@@ -1,0 +1,6 @@
+{
+    dashboard: ["Dashboard", "Ringkasan konten website Bonekaku."],
+    artikel: ["Kelola Artikel", "Buat, ubah, publikasikan, atau hapus artikel website."],
+    media: ["Pustaka Media", "Semua gambar yang Anda unggah untuk artikel."],
+    pengaturan: ["Pengaturan", "Keamanan, kunci publikasi, dan informasi sistem."]
+  }

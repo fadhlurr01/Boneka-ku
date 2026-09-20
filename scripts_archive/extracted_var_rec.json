@@ -1,0 +1,6 @@
+{
+      id: admNewId(), title: art.title, slug: admUniqueSlug(art.slug + "-salinan", null),
+      date: art.iso || admTodayIso(), cover: art.img || "", excerpt: "", author: art.author || DEFAULT_AUTHOR,
+      content: admSanitizeHtml(content),
+      tags: ["bonekaku"], status: "draft", createdAt: Date.now(), updatedAt: Date.now()
+    }

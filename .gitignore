@@ -1,0 +1,10 @@
+DEPLOY_CPANEL/
+*.zip
+.DS_Store
+Thumbs.db
+*pw*.txt
+*.env
+backend/.env
+backend/.env.backup
+node_modules/
+vendor/

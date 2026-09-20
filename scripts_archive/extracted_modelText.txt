@@ -1,0 +1,12 @@
+generateText = {import:ai-text-plugin}
+superFetch = {import:super-fetch-plugin}
+kv = {import:kv-plugin}
+uploadPlugin = {import:upload-plugin}
+createServerSocket = {import:server-plugin}
+
+$meta
+  title = Bonekaku – Pusat Souvenir dan Boneka Terlengkap
+  description = Bonekaku.co.id – jasa pembuatan boneka souvenir, bantal custom, boneka custom, maskot & badut untuk promo produk, acara perusahaan, wedding, ulang tahun, baby shower, wisuda dan lainnya. Proses cepat, bisa custom.
+  tags = boneka, souvenir, boneka souvenir, bantal custom, boneka custom, maskot, badut, wedding, ulang tahun, baby shower, wisuda
+  header
+    mode = minimal
